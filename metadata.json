@@ -1,0 +1,6 @@
+{
+  "name": "Timor Express - Cross-Border E-Commerce & Logistics",
+  "description": "Cross-border marketplace and logistics pipeline connecting Timor-Leste buyers with Indonesian suppliers in NTT and Java, featuring dual currency (USD/IDR), trilingual support (Tetun/Indonesian/English), live auto-translated negotiation chat, transparent border customs breakdowns, and real-time Mota'ain customs tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
